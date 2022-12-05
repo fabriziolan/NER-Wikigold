@@ -1,1 +1,2 @@
 # NER-Wikigold
+This notebook has the goal of building a Natural Language Processing pipeline. This is going to be composed of three parts: Exploratory Data Analysis, application of a Recurrent Neural Network for named entity recognition, and classification exploiting a BERT transformer. The dataset on which these are applied is wikigold, a collection of wikipedia articles annotated with IOB labels.
